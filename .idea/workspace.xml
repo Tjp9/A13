@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0743d345-6322-4511-88eb-59cb40c4457e" name="Changes" comment="commit" />
+    <list default="true" id="0743d345-6322-4511-88eb-59cb40c4457e" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sampson.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/sampson.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sampson.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +40,7 @@
       <workItem from="1636944820303" duration="1877000" />
       <workItem from="1636946747262" duration="41000" />
       <workItem from="1636946791287" duration="195000" />
+      <workItem from="1636947017651" duration="453000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1636944882145</created>
@@ -65,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636946812185</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1636947031395</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636947031395</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
